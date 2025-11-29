@@ -4,36 +4,35 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- SEO -->
-  <title>تجديد كود سيرفر GO PLUS - الباقة الذهبية والباقة الدولية</title>
-  <meta name="description" content="جدد الآن كود سيرفر GO PLUS لمدة 12 شهر كاملة. الباقة الذهبية داخل مصر 400 جنيه سنوياً، والباقة الدولية 50$ سنوياً تعمل بجميع دول العالم مع دفع آمن عبر PayPal ودعم فني عبر الواتساب.">
-  <meta name="keywords" content="تجديد كود سيرفر GO PLUS, GO PLUS IPTV, اشتراك GO PLUS, تجديد اشتراك جو بلس, سيرفر GO PLUS, تجديد كود GO PLUS, اشتراك IPTV داخل مصر, اشتراك IPTV خارج مصر">
+  <!-- SEO الأساسي -->
+  <title>تجديد كود سيرفر جو بلس GO PLUS IPTV - الباقة الذهبية والباقة الدولية</title>
+  <meta name="description" content="جدد الآن كود سيرفر جو بلس GO PLUS IPTV لمدة 12 شهر كاملة. الباقة الذهبية داخل مصر 400 جنيه سنوياً، والباقة الدولية 50$ سنوياً تعمل بجميع دول العالم مع دفع آمن عبر PayPal ودعم فني عبر الواتساب.">
+  <meta name="keywords" content="تجديد كود سيرفر جو بلس, GO PLUS IPTV, اشتراك GO PLUS IPTV, تجديد اشتراك جو بلس, سيرفر جو بلس IPTV, تجديد كود GO PLUS, اشتراك IPTV داخل مصر, اشتراك IPTV خارج مصر">
 
-  <link rel="canonical" href="https://goplus.vercel.app/"><!-- عدّلها للدومين الفعلي عندك -->
+  <!-- Canonical -->
+  <link rel="canonical" href="https://goplusiptv.vercel.app/">
 
-  <!-- FAVICON -->
+  <!-- Favicon (أيقونة التبويب) -->
   <link rel="icon" type="image/png" href="https://b.top4top.io/p_3620ij8z41.png">
-  <link rel="shortcut icon" type="image/png" href="https://b.top4top.io/p_3620ij8z41.png">
-  <link rel="apple-touch-icon" href="https://b.top4top.io/p_3620ij8z41.png">
 
   <!-- Open Graph -->
   <meta property="og:locale" content="ar_AR">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="تجديد كود سيرفر GO PLUS - الباقة الذهبية والباقة الدولية">
-  <meta property="og:description" content="تجديد اشتراك سيرفر GO PLUS لمدة 12 شهر. باقة داخل مصر 400 جنيه، وباقة دولية 50$ لجميع دول العالم مع دعم فني كامل.">
-  <meta property="og:url" content="https://goplus.vercel.app/">
+  <meta property="og:title" content="تجديد كود سيرفر جو بلس GO PLUS IPTV - الباقة الذهبية والباقة الدولية">
+  <meta property="og:description" content="تجديد اشتراك سيرفر جو بلس GO PLUS IPTV لمدة 12 شهر. باقة داخل مصر 400 جنيه، وباقة دولية 50$ لجميع دول العالم مع دعم فني كامل.">
+  <meta property="og:url" content="https://goplusiptv.vercel.app/">
   <meta property="og:site_name" content="GO PLUS IPTV - سيرفر جو بلس">
   <meta property="og:image" content="https://b.top4top.io/p_3620ij8z41.png">
   <meta property="og:image:secure_url" content="https://b.top4top.io/p_3620ij8z41.png">
-  <meta property="og:image:alt" content="تجديد كود سيرفر GO PLUS">
+  <meta property="og:image:alt" content="تجديد كود سيرفر جو بلس GO PLUS IPTV">
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="تجديد كود سيرفر GO PLUS - الباقة الذهبية والباقة الدولية">
-  <meta name="twitter:description" content="جدد كود سيرفر GO PLUS لمدة سنة كاملة داخل مصر أو لجميع دول العالم مع دفع آمن عبر PayPal.">
+  <meta name="twitter:title" content="تجديد كود سيرفر جو بلس GO PLUS IPTV - الباقة الذهبية والباقة الدولية">
+  <meta name="twitter:description" content="جدد كود سيرفر جو بلس GO PLUS IPTV لمدة سنة كاملة داخل مصر أو لجميع دول العالم مع دفع آمن عبر PayPal.">
   <meta name="twitter:image" content="https://b.top4top.io/p_3620ij8z41.png">
 
-  <!-- FAQ Schema for SEO -->
+  <!-- FAQ Schema لتحسين الظهور في جوجل -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -41,15 +40,15 @@
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "كيف أجدد كود سيرفر GO PLUS لمدة سنة؟",
+        "name": "كيف أجدد كود سيرفر جو بلس GO PLUS IPTV لمدة سنة؟",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "يمكنك تجديد كود سيرفر GO PLUS لمدة 12 شهر من خلال اختيار الباقة الذهبية داخل مصر أو الباقة الدولية خارج مصر، ثم التواصل عبر الواتساب أو الدفع أونلاين عبر PayPal وإرسال سكرين تأكيد الدفع لتفعيل الاشتراك مباشرة."
+          "text": "يمكنك تجديد كود سيرفر جو بلس GO PLUS IPTV لمدة 12 شهر من خلال اختيار الباقة الذهبية داخل مصر أو الباقة الدولية خارج مصر، ثم التواصل عبر الواتساب أو الدفع أونلاين عبر PayPal وإرسال سكرين تأكيد الدفع لتفعيل الاشتراك مباشرة."
         }
       },
       {
         "@type": "Question",
-        "name": "ما الفرق بين الباقة الذهبية داخل مصر والباقة الدولية في سيرفر GO PLUS؟",
+        "name": "ما الفرق بين الباقة الذهبية داخل مصر والباقة الدولية في سيرفر جو بلس؟",
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "الباقة الذهبية داخل مصر بسعر 400 جنيه سنوياً وتعمل فقط داخل مصر، بينما الباقة الدولية بسعر 50 دولار سنوياً وتعمل بجميع دول العالم مع نفس القنوات والمحتوى تقريباً ودعم فني كامل."
@@ -57,10 +56,10 @@
       },
       {
         "@type": "Question",
-        "name": "ما هي طرق الدفع المتاحة لتجديد سيرفر GO PLUS؟",
+        "name": "ما هي طرق الدفع المتاحة لتجديد سيرفر جو بلس؟",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "داخل مصر يمكن الدفع من خلال فودافون كاش، اتصالات كاش، وأي محفظة بنكية عبر InstaPay. خارج مصر يمكن الدفع بأمان عبر PayPal بالدولار، ثم إرسال سكرين تأكيد الدفع على الواتساب لتفعيل كود GO PLUS مباشرة."
+          "text": "داخل مصر يمكن الدفع من خلال فودافون كاش، اتصالات كاش، وأي محفظة بنكية عبر InstaPay. خارج مصر يمكن الدفع بأمان عبر PayPal بالدولار، ثم إرسال سكرين تأكيد الدفع على الواتساب لتفعيل كود GO PLUS IPTV مباشرة."
         }
       }
     ]
@@ -74,13 +73,14 @@
 
   <style>
     :root {
-      --primary: #0057ff;      /* أزرق أساسي */
-      --primary-soft: #4f8dff;
-      --primary-dark: #00359f;
-      --accent: #ffd500;       /* أصفر */
-      --bg: #f5f7ff;           /* خلفية فاتحة مائلة للأزرق */
+      /* ألوان GO PLUS: أصفر + أزرق + أبيض */
+      --primary: #ffc800;      /* أصفر أساسى */
+      --primary-soft: #ffe45c;
+      --primary-dark: #f5a300;
+      --accent-blue: #0057ff;
+      --bg: #f3f6ff;          /* خلفية فاتحة مائلة للأزرق */
       --card-bg: #ffffff;
-      --text: #0b1120;
+      --text: #0f172a;
       --muted: #6b7280;
     }
 
@@ -91,8 +91,8 @@
       font-family: "Cairo", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       direction: rtl;
       background:
-        radial-gradient(circle at top left, rgba(0,87,255,0.08) 0, transparent 45%),
-        radial-gradient(circle at top right, rgba(255,213,0,0.16) 0, transparent 50%),
+        radial-gradient(circle at top left, #fff4c2 0, transparent 45%),
+        radial-gradient(circle at top right, #d7e4ff 0, transparent 50%),
         var(--bg);
       color: var(--text);
       min-height: 100vh;
@@ -119,11 +119,11 @@
       width: 64px;
       height: 64px;
       border-radius: 22px;
-      background: #ffffff;
+      background: #ffffff; /* خلفية بيضاء للوجو */
       box-shadow:
-        0 0 0 2px rgba(0,87,255,0.3),
-        0 0 28px rgba(0,87,255,0.6),
-        0 10px 25px rgba(0,0,0,0.25);
+        0 0 0 2px rgba(0,87,255,0.45),
+        0 0 28px rgba(255,200,0,0.8),
+        0 10px 25px rgba(15,23,42,0.25);
       display: flex;
       align-items: center;
       justify-content: center;
@@ -148,7 +148,7 @@
     }
 
     .top-brand-title span.en {
-      color: var(--primary);
+      color: var(--accent-blue);
       text-transform: uppercase;
       letter-spacing: 0.06em;
     }
@@ -166,11 +166,11 @@
       border-radius: 28px;
       padding: 22px 20px 24px;
       background:
-        radial-gradient(circle at 15% 0, rgba(255,251,235,1) 0, transparent 55%),
-        radial-gradient(circle at 90% 20%, rgba(219,234,254,1) 0, transparent 60%),
+        radial-gradient(circle at 15% 0, #fff7cf 0, transparent 55%),
+        radial-gradient(circle at 90% 20%, #dfe8ff 0, transparent 60%),
         var(--card-bg);
-      box-shadow: 0 18px 40px rgba(15,23,42,0.18);
-      border: 1px solid rgba(15,23,42,0.06);
+      box-shadow: 0 18px 40px rgba(15,23,42,0.12);
+      border: 1px solid rgba(15,23,42,0.04);
       display: grid;
       grid-template-columns: minmax(0, 2.1fr) minmax(0, 1.7fr);
       gap: 18px;
@@ -191,7 +191,7 @@
       font-weight: 700;
       letter-spacing: 0.16em;
       text-transform: uppercase;
-      color: var(--primary-dark);
+      color: var(--accent-blue);
       margin-bottom: 6px;
     }
 
@@ -203,7 +203,7 @@
     }
 
     .hero-title span.en {
-      color: var(--primary);
+      color: var(--accent-blue);
       text-transform: uppercase;
       letter-spacing: 0.06em;
     }
@@ -212,10 +212,10 @@
       margin: 4px 0 12px;
       font-size: 16px;
       font-weight: 700;
-      color: #111827;
+      color: #0f172a;
     }
 
-    .hero-subtitle strong { color: var(--primary); }
+    .hero-subtitle strong { color: var(--primary-dark); }
 
     .hero-text {
       margin: 0 0 14px;
@@ -230,7 +230,7 @@
       gap: 6px;
       padding: 6px 10px;
       border-radius: 999px;
-      background: #0b1120;
+      background: #0f172a;
       color: #f9fafb;
       font-size: 11px;
       margin-bottom: 6px;
@@ -240,8 +240,8 @@
       width: 8px;
       height: 8px;
       border-radius: 50%;
-      background: var(--accent);
-      box-shadow: 0 0 12px rgba(255,213,0,0.9);
+      background: #22c55e;
+      box-shadow: 0 0 10px rgba(34,197,94,0.85);
     }
 
     .btn-row {
@@ -260,12 +260,12 @@
       padding: 10px 20px;
       border-radius: 999px;
       border: none;
-      background: linear-gradient(135deg, var(--primary), #00a2ff);
+      background: linear-gradient(135deg, var(--accent-blue), #001d8a);
       color: #fff;
       font-size: 14px;
       font-weight: 800;
       cursor: pointer;
-      box-shadow: 0 18px 36px rgba(37,99,235,0.45);
+      box-shadow: 0 18px 36px rgba(0,87,255,0.45);
       white-space: nowrap;
     }
 
@@ -281,14 +281,14 @@
       gap: 6px;
       padding: 9px 15px;
       border-radius: 999px;
-      border: 1px solid rgba(15,23,42,0.06);
+      border: 1px solid rgba(15,23,42,0.08);
       background: #ffffff;
-      color: #1e293b;
+      color: #111827;
       font-size: 13px;
       font-weight: 600;
       cursor: pointer;
       white-space: nowrap;
-      box-shadow: 0 10px 24px rgba(15,23,42,0.08);
+      box-shadow: 0 10px 24px rgba(15,23,42,0.06);
     }
 
     .btn-secondary span {
@@ -308,18 +308,17 @@
       position: relative;
       border-radius: 22px;
       overflow: hidden;
-      background: #ffffff;
+      background: #ffffff; /* خلفية بيضاء للصورة */
       box-shadow:
-        0 0 0 2px rgba(0,87,255,0.35),
-        0 0 55px rgba(0,87,255,0.75),
-        0 16px 40px rgba(15,23,42,0.22);
+        0 0 0 2px rgba(0,87,255,0.4),
+        0 0 40px rgba(255,200,0,0.85),
+        0 16px 40px rgba(15,23,42,0.25);
     }
 
     .hero-image img {
       width: 100%;
       height: 100%;
-      object-fit: contain;
-      background: #ffffff;
+      object-fit: cover;
     }
 
     main { margin-top: 26px; }
@@ -340,7 +339,7 @@
       text-align: center;
     }
 
-    .section-title span { color: var(--primary); }
+    .section-title span { color: var(--accent-blue); }
 
     .section-text {
       margin: 0;
@@ -372,11 +371,11 @@
     }
 
     .plan-card.alt {
-      background: linear-gradient(135deg, #eff6ff, #ffffff);
+      background: linear-gradient(135deg, #fff7cf, #ffffff);
     }
 
     .plan-title { margin: 0; font-size: 18px; font-weight: 800; }
-    .plan-title span { color: var(--primary); }
+    .plan-title span { color: var(--accent-blue); }
 
     .plan-subtitle {
       margin: 4px 0 10px;
@@ -385,7 +384,7 @@
       font-weight: 600;
     }
 
-    .plan-price { font-size: 17px; font-weight: 900; margin-bottom: 4px; color: #111827; }
+    .plan-price { font-size: 17px; font-weight: 900; margin-bottom: 4px; color: #0f172a; }
     .plan-price span.currency { font-size: 16px; }
 
     .plan-price-note {
@@ -411,7 +410,7 @@
 
     .plan-list li::before {
       content: "•";
-      color: var(--primary);
+      color: var(--accent-blue);
       margin-top: 2px;
       font-size: 16px;
     }
@@ -433,7 +432,7 @@
       align-items: center;
       gap: 5px;
       white-space: nowrap;
-      color: #111827;
+      color: #0f172a;
     }
 
     .tag-dot {
@@ -455,20 +454,20 @@
       padding: 9px 18px;
       border-radius: 999px;
       border: none;
-      background: linear-gradient(135deg, var(--primary), #00a2ff);
+      background: linear-gradient(135deg, var(--accent-blue), #001d8a);
       color: #fff;
       font-size: 13px;
       font-weight: 800;
       cursor: pointer;
-      box-shadow: 0 12px 30px rgba(37,99,235,0.45);
+      box-shadow: 0 12px 30px rgba(0,87,255,0.4);
       margin-top: 2px;
     }
 
     .btn-plan.outline {
       background: #ffffff;
       border: 1px solid rgba(15,23,42,0.12);
-      color: #111827;
-      box-shadow: 0 10px 24px rgba(15,23,42,0.06);
+      color: #0f172a;
+      box-shadow: 0 10px 24px rgba(15,23,42,0.04);
     }
 
     .plan-footer-note {
@@ -484,11 +483,11 @@
       border-radius: 24px;
       padding: 18px 14px;
       background:
-        radial-gradient(circle at 0 0, rgba(0,87,255,0.25) 0, transparent 55%),
-        radial-gradient(circle at 100% 100%, rgba(255,213,0,0.25) 0, transparent 55%),
+        radial-gradient(circle at 0 0, rgba(0,87,255,0.3) 0, transparent 55%),
+        radial-gradient(circle at 100% 100%, rgba(255,200,0,0.35) 0, transparent 55%),
         #020617;
-      border: 1px solid rgba(15,23,42,0.7);
-      box-shadow: 0 18px 40px rgba(15,23,42,0.75);
+      border: 1px solid rgba(15,23,42,0.5);
+      box-shadow: 0 18px 40px rgba(15,23,42,0.6);
       display: flex;
       justify-content: center;
       align-items: center;
@@ -499,9 +498,9 @@
       background: #ffffff;
       padding: 14px 18px;
       box-shadow:
-        0 0 0 2px rgba(0,87,255,0.4),
-        0 0 40px rgba(0,87,255,0.7),
-        0 16px 32px rgba(15,23,42,0.35);
+        0 0 0 2px rgba(0,87,255,0.45),
+        0 0 36px rgba(255,200,0,0.85),
+        0 16px 32px rgba(15,23,42,0.4);
     }
 
     .logo-brand-inner img {
@@ -529,7 +528,7 @@
       gap: 10px;
     }
 
-    footer .links a { color: #111827; font-weight: 600; }
+    footer .links a { color: #0f172a; font-weight: 600; }
 
     /* WHATSAPP FLOAT */
     .whatsapp-float {
@@ -567,14 +566,14 @@
     <!-- TOP BRAND WITH LOGO -->
     <div class="top-brand">
       <div class="top-logo-wrap">
-        <img src="https://b.top4top.io/p_3620ij8z41.png" alt="شعار GO PLUS">
+        <img src="https://b.top4top.io/p_3620ij8z41.png" alt="شعار GO PLUS IPTV">
       </div>
       <div class="top-brand-text">
         <div class="top-brand-title">
-          سيرفر جو بلس – <span class="en">GO PLUS</span>
+          سيرفر جو بلس – <span class="en">GO PLUS IPTV</span>
         </div>
         <div class="top-brand-sub">
-          ترفيه متكامل – أقل استهلاك للإنترنت – أداء ثابت
+          أكبر مكتبة رياضية ترفيهية – أقل استهلاك للإنترنت
         </div>
       </div>
     </div>
@@ -582,37 +581,37 @@
     <!-- HERO -->
     <section class="hero">
       <div class="hero-main">
-        <div class="hero-kicker">GO PLUS OFFICIAL</div>
+        <div class="hero-kicker">GO PLUS IPTV OFFICIAL</div>
 
         <h1 class="hero-title">
-          تجديد كود <span class="en">GO PLUS</span> لمدة 12 شهر
+          تجديد كود <span class="en">GO PLUS IPTV</span> لمدة 12 شهر
         </h1>
 
         <p class="hero-subtitle">
-          <strong>تجديد اشتراك سيرفر GO PLUS</strong> لأقوى السيرفرات الرياضية والترفيهية
+          <strong>تجديد اشتراك سيرفر جو بلس</strong> لأقوى السيرفرات الرياضية والترفيهية
         </p>
 
         <div class="highlight-box">
           <span class="dot-live"></span>
-          <span>تفعيل أو تجديد كود سيرفر GO PLUS لمدة سنة كاملة بأقل استهلاك للإنترنت</span>
+          <span>تفعيل أو تجديد كود سيرفر جو بلس لمدة سنة كاملة مع أقل استهلاك للإنترنت</span>
         </div>
 
         <p class="hero-text">
-          إذا كان لديك رسيفر به أيقونة <strong>GO PLUS</strong> داخل قائمة IPTV فيمكننا
+          إذا كان لديك رسيفر به أيقونة <strong>GO PLUS IPTV</strong> داخل قائمة IPTV فيمكننا
           تفعيل السيرفر لك لمدة سنة كاملة. إذا كان نوع جهازك مختلف، أرسل نوع الجهاز وصورة
-          توضح الموديل على الواتساب لنعرف إذا كان يمكن تحويله بسوفت يحتوي على أيقونة GO PLUS.
+          توضح الموديل على الواتساب لنعرف إذا كان يمكن تحويله بسوفت يحتوي على أيقونة جو بلس.
         </p>
 
         <div class="btn-row">
           <a class="btn-main"
-             href="https://wa.me/201098256570?text=%D8%A7%D8%B1%D9%8A%D8%AF%20%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF%20%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83%20%D8%B3%D9%8A%D8%B1%D9%81%D8%B1%20GO%20PLUS"
+             href="https://wa.me/201098256570?text=%D8%A7%D8%B1%D9%8A%D8%AF%20%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF%20%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83%20%D8%B3%D9%8A%D8%B1%D9%81%D8%B1%20GO%20PLUS%20IPTV"
              target="_blank" rel="noopener">
             اشترك الآن / جدد اشتراكك
             <span class="small">خدمة عملاء واتساب</span>
           </a>
 
           <a class="btn-secondary"
-             href="https://wa.me/201098256570?text=%D8%A3%D8%AD%D8%AA%D8%A7%D8%AC%20%D8%B3%D9%88%D9%81%D8%AA%20%D8%AA%D8%AD%D9%88%D9%8A%D9%84%20%D9%84%D8%B1%D8%B3%D9%8A%D9%81%D8%B1%D9%8A%20%D9%84%D9%8A%D8%AD%D8%AA%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A3%D9%8A%D9%82%D9%88%D9%86%D8%A9%20GO%20PLUS"
+             href="https://wa.me/201098256570?text=%D8%A3%D8%AD%D8%AA%D8%A7%D8%AC%20%D8%B3%D9%88%D9%81%D8%AA%20%D8%AA%D8%AD%D9%88%D9%8A%D9%84%20%D9%84%D8%B1%D8%B3%D9%8A%D9%81%D8%B1%D9%8A%20%D9%84%D9%8A%D8%AD%D8%AA%D9%88%D9%8A%20%D8%B9%D9%84%D9%89%20%D8%A3%D9%8A%D9%82%D9%88%D9%86%D8%A9%20GO%20PLUS%20IPTV"
              target="_blank" rel="noopener">
             أحتاج سوفت تحويل لجهازي
             <span>متابعة خطوة بخطوة</span>
@@ -626,7 +625,7 @@
 
       <div class="hero-media">
         <div class="hero-image">
-          <img src="https://b.top4top.io/p_3620ij8z41.png" alt="شعار GO PLUS">
+          <img src="https://b.top4top.io/p_3620ij8z41.png" alt="إعلان سيرفر جو بلس GO PLUS IPTV">
         </div>
       </div>
     </section>
@@ -636,10 +635,10 @@
       <section>
         <div class="section-card">
           <h2 class="section-title">
-            جدد الآن اشتراكك في <span>سيرفر GO PLUS</span>
+            جدد الآن اشتراكك في <span>سيرفر جو بلس</span>
           </h2>
           <p class="section-text">
-            سيرفر <strong>GO PLUS</strong> من أقوى سيرفرات IPTV في العالم العربي؛
+            سيرفر جو بلس <strong>GO PLUS IPTV</strong> من أقوى سيرفرات IPTV في العالم العربي؛
             سريع وخفيف ومستقر، مع محتوى استثنائي يجعله من أكثر السيرفرات طلبًا.
             يوفر لك كل ما تحتاجه من قنوات بث مباشر، أفلام، مسلسلات، برامج، ومحتوى للأطفال بجودات تصل حتى
             <strong>4K</strong> مع استهلاك ذكي للإنترنت.
@@ -651,7 +650,7 @@
       <section>
         <div class="section-card">
           <h2 class="section-title">
-            ماذا يقدم <span>سيرفر GO PLUS؟</span>
+            ماذا يقدم <span>سيرفر جو بلس GO PLUS IPTV؟</span>
           </h2>
           <p class="section-text" style="text-align:right;">
             • باقات رياضية كاملة تشمل أهم الدوريات العالمية: دوري أبطال أوروبا، الدوري الإنجليزي،
@@ -660,7 +659,7 @@
             الكلاسيكيات المفضلة للجميع.<br>
             • مسلسلات عربية، تركية، وأجنبية محدثة باستمرار مع إمكانية متابعة الحلقات الجديدة أولاً بأول.<br>
             • قنوات أطفال وقنوات وثائقية وقنوات عامة لكل أفراد الأسرة.<br>
-            • تحديثات مستمرة لقوائم القنوات والمحتوى بحيث يظل سيرفر GO PLUS متجدد دائماً.<br>
+            • تحديثات مستمرة لقوائم القنوات والمحتوى بحيث يظل سيرفر جو بلس متجدد دائماً.<br>
             • يعمل على عدد كبير من الرسيفرات والشاشات والتطبيقات الداعمة لـ IPTV مع دعم فني حقيقي عبر الواتساب.
           </p>
         </div>
@@ -706,7 +705,7 @@
               </div>
 
               <a class="btn-plan"
-                 href="https://wa.me/201098256570?text=%D8%A7%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%A8%D8%A7%D9%82%D8%A9%20%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9%20%D8%AF%D8%A7%D8%AE%D9%84%20%D9%85%D8%B5%D8%B1%20GO%20PLUS"
+                 href="https://wa.me/201098256570?text=%D8%A7%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%A8%D8%A7%D9%82%D8%A9%20%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9%20%D8%AF%D8%A7%D8%AE%D9%84%20%D9%85%D8%B5%D8%B1%20GO%20PLUS%20IPTV"
                  target="_blank" rel="noopener">
                 اشترك الآن داخل مصر
               </a>
@@ -740,6 +739,7 @@
                 </span>
               </div>
 
+              <!-- رابط PayPal الخاص بك -->
               <a class="btn-plan outline"
                  href="https://www.paypal.com/ncp/payment/JSSXH6M8WSEJG"
                  target="_blank" rel="noopener">
@@ -758,7 +758,7 @@
       <section>
         <div class="logo-brand-card">
           <div class="logo-brand-inner">
-            <img src="https://b.top4top.io/p_3620ij8z41.png" alt="GO PLUS Logo">
+            <img src="https://b.top4top.io/p_3620ij8z41.png" alt="GO PLUS IPTV Logo">
           </div>
         </div>
       </section>
@@ -767,20 +767,20 @@
     <!-- FOOTER -->
     <footer>
       <div class="links">
-        <a href="#">تجديد كود سيرفر GO PLUS</a>
+        <a href="#">تجديد كود سيرفر جو بلس</a>
         <a href="#">تطبيقات GO PLUS IPTV</a>
         <a href="#">لوحات سيرفر GO PLUS</a>
       </div>
       <div>عملاق المحتوى العربي – أقل استهلاك للإنترنت</div>
       <div style="margin-top:6px;">
-        جميع الحقوق محفوظة سيرفر GO PLUS IPTV
+        جميع الحقوق محفوظة سيرفر جو بلس GO PLUS IPTV
       </div>
     </footer>
   </div>
 
   <!-- زر واتساب عائم -->
   <a class="whatsapp-float"
-     href="https://wa.me/201098256570?text=%D8%A7%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83%20%D8%A3%D9%88%20%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF%20%D9%83%D9%88%D8%AF%20%D8%B3%D9%8A%D8%B1%D9%81%D8%B1%20GO%20PLUS"
+     href="https://wa.me/201098256570?text=%D8%A7%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83%20%D8%A3%D9%88%20%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF%20%D9%83%D9%88%D8%AF%20%D8%B3%D9%8A%D8%B1%D9%81%D8%B1%20GO%20PLUS%20IPTV"
      target="_blank" rel="noopener">
     <div class="whatsapp-btn">
       <svg viewBox="0 0 448 512" aria-hidden="true">
